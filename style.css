@@ -3,16 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     behavior: smooth;
-    
-
 }
-/* .hero {
-    height: auto;
-    width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(/laptop\ hacker\ 2.jpg);
-    background-size: cover;
-    background-position: center;
-} */
 
 .icons-container{
     display: flex;
@@ -266,7 +257,7 @@ h4{
 }
 .newsletter{
     padding:6rem 2rem;
-    background: url(/letter-bg.png) no-repeat;
+    background: url(letter-bg.png) no-repeat;
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -442,7 +433,7 @@ h4{
     }
     .newsletter{
     padding:6rem 2rem;
-    background: url(/letter-bg.png) no-repeat;
+    background: url(letter-bg.png) no-repeat;
     background-size: cover;
     }
     .newsletter form{
